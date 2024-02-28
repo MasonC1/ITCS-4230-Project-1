@@ -34,7 +34,8 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
-    {"id":{"name":"dialogueManager","path":"objects/dialogueManager/dialogueManager.yy",},},
+    {"id":{"name":"tutorialDialogueManager","path":"objects/tutorialDialogueManager/tutorialDialogueManager.yy",},},
+    {"id":{"name":"introDialogue","path":"objects/introDialogue/introDialogue.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
