@@ -4,7 +4,8 @@
 currentDialogueLine = 0
 
 dialogue = {
-	"test"
+	"test",
+	"test 2"
 }
 
 
