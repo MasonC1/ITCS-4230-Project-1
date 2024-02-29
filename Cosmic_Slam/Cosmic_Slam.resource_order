@@ -22,6 +22,7 @@
     {"name":"obj_arm","order":3,"path":"objects/obj_arm/obj_arm.yy",},
     {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_controller","order":6,"path":"objects/obj_controller/obj_controller.yy",},
     {"name":"spr_temp_player","order":2,"path":"sprites/spr_temp_player/spr_temp_player.yy",},
     {"name":"spr_temp_player_arm","order":4,"path":"sprites/spr_temp_player_arm/spr_temp_player_arm.yy",},
     {"name":"spr_forwardrim","order":7,"path":"sprites/spr_forwardrim/spr_forwardrim.yy",},
