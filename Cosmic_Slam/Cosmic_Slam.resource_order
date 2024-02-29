@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"introDialogue","order":1,"path":"objects/introDialogue/introDialogue.yy",},
+    {"name":"playButton","order":2,"path":"objects/playButton/playButton.yy",},
   ],
 }

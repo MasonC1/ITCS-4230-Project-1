@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"tutorialDialogueManager","path":"objects/tutorialDialogueManager/tutorialDialogueManager.yy",},},
     {"id":{"name":"introDialogue","path":"objects/introDialogue/introDialogue.yy",},},
+    {"id":{"name":"playButton","path":"objects/playButton/playButton.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
