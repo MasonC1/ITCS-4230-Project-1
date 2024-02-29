@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_basketball",
+  "name": "obj_forwardrim",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "spr_basketball",
-    "path": "sprites/spr_basketball/spr_basketball.yy",
+    "name": "spr_forwardrim",
+    "path": "sprites/spr_forwardrim/spr_forwardrim.yy",
   },
   "spriteMaskId": null,
   "visible": true,

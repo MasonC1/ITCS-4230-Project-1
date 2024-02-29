@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_basketball",
+  "name": "obj_backboard",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,9 +26,12 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_basketball",
-    "path": "sprites/spr_basketball/spr_basketball.yy",
+    "name": "spr_backboard",
+    "path": "sprites/spr_backboard/spr_backboard.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_board_hitbox",
+    "path": "sprites/spr_board_hitbox/spr_board_hitbox.yy",
+  },
   "visible": true,
 }
