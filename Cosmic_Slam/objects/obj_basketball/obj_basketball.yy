@@ -32,12 +32,12 @@
     {"x":64.0,"y":64.0,},
     {"x":0.0,"y":64.0,},
   ],
-  "physicsStartAwake": true,
+  "physicsStartAwake": false,
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"shot_power","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"22","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"arc_force","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"8","varType":0,},
   ],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "spr_basketball",
     "path": "sprites/spr_basketball/spr_basketball.yy",
