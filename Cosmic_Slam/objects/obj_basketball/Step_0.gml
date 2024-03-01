@@ -11,7 +11,7 @@
 		holding_shot = true
 	}
 	else {
-		gravity = 2
+		holding_shot = false
 	}
 	
 	if (holding_shot = true) {
