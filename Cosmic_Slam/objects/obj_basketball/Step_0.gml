@@ -8,4 +8,8 @@
 	else if !holding_shot{
 		gravity = 0
 	}
-	else
+	else{
+		gravity = .25
+		}
+		
+	

@@ -3,9 +3,9 @@
 
 currentDialogueLine = 0
 
-dialogue = {
+dialogue = [
 	"test",
 	"test 2"
-}
+]
 
 
