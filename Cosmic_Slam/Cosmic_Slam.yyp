@@ -39,6 +39,7 @@
     {"id":{"name":"obj_backboard","path":"objects/obj_backboard/obj_backboard.yy",},},
     {"id":{"name":"obj_arm","path":"objects/obj_arm/obj_arm.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"spr_temp_player","path":"sprites/spr_temp_player/spr_temp_player.yy",},},
