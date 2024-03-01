@@ -54,7 +54,7 @@
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"spr_tempBackground","path":"sprites/spr_tempBackground/spr_tempBackground.yy",},},
     {"id":{"name":"spr_basketball","path":"sprites/spr_basketball/spr_basketball.yy",},},
-    {"id":{"name":"obj_dialogue","path":"objects/obj_dialogue/obj_dialogue.yy",},},
+    {"id":{"name":"obj_dialogueTutroial","path":"objects/obj_dialogueTutroial/obj_dialogueTutroial.yy",},},
     {"id":{"name":"tutorial","path":"rooms/tutorial/tutorial.yy",},},
   ],
   "RoomOrderNodes": [
