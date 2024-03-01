@@ -7,7 +7,7 @@
 		instance_destroy()
 	}
 	else {
-		gravity = .25
+		gravity = 2
 	}
 	
 	if (keyboard_check(vk_space)) { 
