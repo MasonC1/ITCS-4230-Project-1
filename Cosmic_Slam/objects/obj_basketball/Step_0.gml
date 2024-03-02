@@ -3,21 +3,23 @@
 		instance_destroy()
 		vspeed=0
 	}
-	else if (instance_place(x,y+1,obj_backboard)){
-		vspeed=0
-	}
-	else if !holding_shot{
-		gravity = 0
-	}
-	else{
-		gravity = .25
+	if (instance_place(x,y+1,obj_backboard)){
+		instance_destroy()
 	}
 	
-	if (keyboard_check(vk_space)) { 
-		direction = point_direction(x, y, mouse_x, mouse_y);
-		var forceY = lengthdir_y(shot_power, direction) - arc_force
-		physics_apply_force(x, y, lengthdir_x(shot_power, direction), forceY)
-}
+	if (instance_place(x,y+1, obj_player)){
+		holding_shot = true
+	}
+	else {
+		holding_shot = false
+	}
+	
+	if (holding_shot = true) {
+		gravity = 0
+	}
+	if (holding_shot = false) {
+		gravity = .25
+	}
 
 var screenWidth = display_get_width();
 var screenHeight = display_get_height();
