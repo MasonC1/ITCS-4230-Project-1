@@ -5,3 +5,4 @@ if (place_meeting(x, y, obj_backboard)) {
 	score += 10;
 }
 
+global.can_player_shoot = true;
