@@ -29,6 +29,6 @@ var screenWidth = display_get_width();
 var screenHeight = display_get_height();
 
 if (x < 0 || x > screenWidth || y < 0 || y > screenHeight) {
-    game_restart();
+    room_restart();
 }
 show_debug_message(direction)
