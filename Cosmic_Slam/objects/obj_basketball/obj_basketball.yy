@@ -6,6 +6,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_scoreCounter","path":"objects/obj_scoreCounter/obj_scoreCounter.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,8 +32,8 @@
   ],
   "physicsStartAwake": false,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"shot_power","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"22","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"arc_force","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"8","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"shot_power","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"45","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"arc_force","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"10","varType":0,},
   ],
   "solid": false,
   "spriteId": {
