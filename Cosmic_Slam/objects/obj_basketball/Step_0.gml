@@ -16,13 +16,12 @@ if(global.can_player_shoot = true) {
 	}
 	else {
 	}
-		if (holding_shot = true) {
-			direction = point_direction(x, y, mouse_x, mouse_y);
-			if (keyboard_check(vk_space)) { 
-				if  direction < 90 or direction > 340 {
-					var forceY = lengthdir_y(shot_power, direction) - arc_force
-					physics_apply_impulse(x, y, lengthdir_x(shot_power*1.35, direction), forceY*1.45)
-				}
+	if (holding_shot = true) {
+		direction = point_direction(x, y, mouse_x, mouse_y);
+		if (keyboard_check(vk_space)) { 
+			if  direction < 90 or direction > 340 {
+				var forceY = lengthdir_y(shot_power, direction) - arc_force
+				physics_apply_impulse(x, y, lengthdir_x(shot_power*1.35, direction), forceY*1.45)
 			}
 		}
 	var screenWidth = display_get_width();
@@ -32,4 +31,5 @@ if(global.can_player_shoot = true) {
 	    room_restart();
 	}
 	show_debug_message(direction)
+	}
 }
