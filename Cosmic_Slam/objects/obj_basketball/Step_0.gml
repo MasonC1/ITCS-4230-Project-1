@@ -1,10 +1,5 @@
-	
-	if (instance_place(x,y+1,obj_ground)){
-	//Play ball destroy animation here
-	x = 224
-	y = 416
-}
-	if (instance_place(x,y+1, obj_player)){
+
+	if (instance_place(x,y+1, obj_player1_body)or instance_place(x,y+1, obj_player2_body)){
 		holding_shot = true
 	}
 	else {
@@ -28,7 +23,4 @@
 var screenWidth = display_get_width();
 var screenHeight = display_get_height();
 
-if (x < 0 || x > screenWidth || y < 0 || y > screenHeight) {
-    room_restart();
-}
 show_debug_message(direction)
