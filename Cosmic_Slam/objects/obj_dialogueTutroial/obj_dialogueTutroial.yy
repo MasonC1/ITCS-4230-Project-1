@@ -29,7 +29,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_player1_dialogue",
+    "path": "sprites/spr_player1_dialogue/spr_player1_dialogue.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
