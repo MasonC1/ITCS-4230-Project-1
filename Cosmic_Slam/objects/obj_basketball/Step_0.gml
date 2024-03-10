@@ -1,5 +1,10 @@
-
-	if (instance_place(x,y+1, obj_player1_body)or instance_place(x,y+1, obj_player2_body)){
+if(global.can_player_shoot = true) {
+	if (instance_place(x,y+1,obj_ground)){
+	//Play ball destroy animation here
+	x = 224
+	y = 416
+	}
+	if (instance_place(x,y+1, obj_player)){
 		holding_shot = true
 	}
 	else {
@@ -16,11 +21,15 @@
 		if (keyboard_check(vk_space)) { 
 			if  direction < 90 or direction > 340 {
 				var forceY = lengthdir_y(shot_power, direction) - arc_force
-				physics_apply_impulse(x, y, lengthdir_x(shot_power*1.3, direction), forceY*1.3)
+				physics_apply_impulse(x, y, lengthdir_x(shot_power*1.35, direction), forceY*1.45)
 			}
 		}
-}
-var screenWidth = display_get_width();
-var screenHeight = display_get_height();
+	var screenWidth = display_get_width();
+	var screenHeight = display_get_height();
 
-show_debug_message(direction)
+	if (x < 0 || x > screenWidth || y < 0 || y > screenHeight) {
+	    room_restart();
+	}
+	show_debug_message(direction)
+	}
+}
