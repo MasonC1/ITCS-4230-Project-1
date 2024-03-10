@@ -27,7 +27,6 @@
     {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"spr_player2_dialogue","order":14,"path":"sprites/spr_player2_dialogue/spr_player2_dialogue.yy",},
     {"name":"spr_player2_body","order":11,"path":"sprites/spr_player2_body/spr_player2_body.yy",},
-    {"name":"spr_player2","order":11,"path":"sprites/spr_player2/spr_player2.yy",},
     {"name":"obj_dialogueP2","order":9,"path":"objects/obj_dialogueP2/obj_dialogueP2.yy",},
     {"name":"spr_player2_full","order":17,"path":"sprites/spr_player2_full/spr_player2_full.yy",},
     {"name":"obj_player2_arm","order":14,"path":"objects/obj_player2_arm/obj_player2_arm.yy",},
@@ -60,7 +59,6 @@
     {"name":"obj_dialogueP1","order":8,"path":"objects/obj_dialogueP1/obj_dialogueP1.yy",},
     {"name":"spr_basketball","order":3,"path":"sprites/spr_basketball/spr_basketball.yy",},
     {"name":"obj_player_choice","order":10,"path":"objects/obj_player_choice/obj_player_choice.yy",},
-    {"name":"obj_dialogueTutroial","order":6,"path":"objects/obj_dialogueTutroial/obj_dialogueTutroial.yy",},
     {"name":"obj_dialogueParent","order":6,"path":"objects/obj_dialogueParent/obj_dialogueParent.yy",},
   ],
 }

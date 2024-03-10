@@ -1,10 +1,11 @@
+show_debug_message(holding_shot)
 if(global.can_player_shoot = true) {
 	if (instance_place(x,y+1,obj_ground)){
 	//Play ball destroy animation here
 	x = 224
 	y = 416
 	}
-	if (instance_place(x,y+1, obj_player)){
+	if (instance_place(x,y+1, obj_player1_body) or instance_place(x,y+1, obj_player2_body)){
 		holding_shot = true
 	}
 	else {

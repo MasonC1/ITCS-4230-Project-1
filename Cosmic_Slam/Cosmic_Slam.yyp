@@ -80,10 +80,8 @@
     {"id":{"name":"obj_dialogueP1","path":"objects/obj_dialogueP1/obj_dialogueP1.yy",},},
     {"id":{"name":"spr_basketball","path":"sprites/spr_basketball/spr_basketball.yy",},},
     {"id":{"name":"obj_player_choice","path":"objects/obj_player_choice/obj_player_choice.yy",},},
-    {"id":{"name":"obj_dialogueTutroial","path":"objects/obj_dialogueTutroial/obj_dialogueTutroial.yy",},},
     {"id":{"name":"tutorial1","path":"rooms/tutorial1/tutorial1.yy",},},
     {"id":{"name":"obj_dialogueParent","path":"objects/obj_dialogueParent/obj_dialogueParent.yy",},},
-    {"id":{"name":"tutorial","path":"rooms/tutorial/tutorial.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"titlescreen","path":"rooms/titlescreen/titlescreen.yy",},},
