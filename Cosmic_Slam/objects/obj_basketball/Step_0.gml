@@ -21,7 +21,7 @@
 		if (keyboard_check(vk_space)) { 
 			if  direction < 90 or direction > 340 {
 				var forceY = lengthdir_y(shot_power, direction) - arc_force
-				physics_apply_impulse(x, y, lengthdir_x(shot_power*1.3, direction), forceY*1.3)
+				physics_apply_impulse(x, y, lengthdir_x(shot_power*1.35, direction), forceY*1.45)
 			}
 		}
 }
