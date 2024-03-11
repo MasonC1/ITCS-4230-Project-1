@@ -6,4 +6,5 @@ if (place_meeting(x, y, obj_backboard)) {
     instance_destroy(); 
 	score += 10;
 }
+
 global.can_player_shoot = true;
