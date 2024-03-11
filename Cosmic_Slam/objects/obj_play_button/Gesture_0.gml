@@ -6,7 +6,7 @@ if global.is_player_one
 }
 else
 {
-	room_goto(tutorial2)
+	room_goto(tutorial1alt)
 }
 
 
