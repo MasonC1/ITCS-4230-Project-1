@@ -67,6 +67,7 @@
     {"id":{"name":"obj_basketball","path":"objects/obj_basketball/obj_basketball.yy",},},
     {"id":{"name":"level","path":"rooms/level/level.yy",},},
     {"id":{"name":"obj_basketball_other","path":"objects/obj_basketball_other/obj_basketball_other.yy",},},
+    {"id":{"name":"asteroid_path","path":"paths/asteroid_path/asteroid_path.yy",},},
     {"id":{"name":"ending","path":"rooms/ending/ending.yy",},},
     {"id":{"name":"obj_forwardrim","path":"objects/obj_forwardrim/obj_forwardrim.yy",},},
     {"id":{"name":"spr_intro_bg","path":"sprites/spr_intro_bg/spr_intro_bg.yy",},},
