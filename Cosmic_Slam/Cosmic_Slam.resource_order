@@ -32,7 +32,7 @@
     {"name":"obj_player2_arm","order":14,"path":"objects/obj_player2_arm/obj_player2_arm.yy",},
     {"name":"obj_player2_full","order":9,"path":"objects/obj_player2_full/obj_player2_full.yy",},
     {"name":"obj_play_button","order":7,"path":"objects/obj_play_button/obj_play_button.yy",},
-    {"name":"Sprite20","order":19,"path":"sprites/Sprite20/Sprite20.yy",},
+    {"name":"spr_net","order":19,"path":"sprites/spr_net/spr_net.yy",},
     {"name":"spr_player1_arm","order":10,"path":"sprites/spr_player1_arm/spr_player1_arm.yy",},
     {"name":"level1alt","order":5,"path":"rooms/level1alt/level1alt.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
