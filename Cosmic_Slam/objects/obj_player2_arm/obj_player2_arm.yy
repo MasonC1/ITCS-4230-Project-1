@@ -6,9 +6,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player1_arm","path":"objects/obj_player1_arm/obj_player1_arm.yy",},"propertyId":{"name":"object","path":"objects/obj_player1_arm/obj_player1_arm.yy",},"value":"obj_basketball_other",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
