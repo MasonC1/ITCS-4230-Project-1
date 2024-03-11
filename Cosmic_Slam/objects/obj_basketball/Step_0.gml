@@ -14,11 +14,11 @@ if(global.can_player_shoot == true)
 		if (keyboard_check(ord("W")))
 		{
 			const += .2
-			const = clamp(const,0,10)
+			const = clamp(const,1,10)
 		}
 		else if (keyboard_check(ord("S")))
 			const -= .2
-			const = clamp(const,0,10)
+			const = clamp(const,1,10)
 		{
 		gravity = 0
 		direction = point_direction(x, y, mouse_x, mouse_y);

@@ -19,6 +19,7 @@
     {"name":"inst_74CDC37C","path":"rooms/tutorial1/tutorial1.yy",},
     {"name":"inst_2DE58BC","path":"rooms/tutorial1/tutorial1.yy",},
     {"name":"inst_3743FE2F","path":"rooms/tutorial1/tutorial1.yy",},
+    {"name":"inst_4AEBB6D6","path":"rooms/tutorial1/tutorial1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -37,6 +38,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6A6E64F1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_forwardrim","path":"objects/obj_forwardrim/obj_forwardrim.yy",},"properties":[],"rotation":0.0,"scaleX":1.3124999,"scaleY":1.3124999,"x":504.0,"y":-9.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2DE58BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_scoreCounter","path":"objects/obj_scoreCounter/obj_scoreCounter.yy",},"properties":[],"rotation":0.0,"scaleX":4.125,"scaleY":-1.125,"x":675.0,"y":228.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3743FE2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dialogueP1","path":"objects/obj_dialogueP1/obj_dialogueP1.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4AEBB6D6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ufo","path":"objects/obj_ufo/obj_ufo.yy",},"properties":[],"rotation":0.0,"scaleX":6.21875,"scaleY":5.90625,"x":160.0,"y":-192.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_tutorial_bg","path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

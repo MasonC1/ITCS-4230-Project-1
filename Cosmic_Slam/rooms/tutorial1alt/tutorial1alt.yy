@@ -19,6 +19,7 @@
     {"name":"inst_39601F62","path":"rooms/tutorial1alt/tutorial1alt.yy",},
     {"name":"inst_4BB5B041","path":"rooms/tutorial1alt/tutorial1alt.yy",},
     {"name":"inst_139B3772","path":"rooms/tutorial1alt/tutorial1alt.yy",},
+    {"name":"inst_6C74C907","path":"rooms/tutorial1alt/tutorial1alt.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -37,6 +38,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6A6E64F1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_forwardrim","path":"objects/obj_forwardrim/obj_forwardrim.yy",},"properties":[],"rotation":0.0,"scaleX":1.3124999,"scaleY":1.3124999,"x":504.0,"y":-9.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4BB5B041","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dialogueP2","path":"objects/obj_dialogueP2/obj_dialogueP2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_139B3772","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_scoreCounter","path":"objects/obj_scoreCounter/obj_scoreCounter.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":1.0,"x":673.0,"y":229.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6C74C907","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ufo","path":"objects/obj_ufo/obj_ufo.yy",},"properties":[],"rotation":0.0,"scaleX":5.031214,"scaleY":5.031214,"x":160.0,"y":-160.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_tutorial_bg","path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
