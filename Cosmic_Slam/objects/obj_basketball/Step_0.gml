@@ -4,6 +4,18 @@
 	x = 224
 	y = 416
 }
+
+/*var score_updated = false
+if (place_meeting(x, y, obj_scoreCounter)) {
+    if (!score_updated) {
+        score += 2; 
+        score_updated = true; 
+    }
+} else {
+    score_updated = false;
+}*/
+
+
 	if (instance_place(x,y+1, obj_player)){
 		holding_shot = true
 	}
