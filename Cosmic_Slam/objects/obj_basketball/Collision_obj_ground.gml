@@ -1,8 +1,1 @@
-//add animation here
-x= 205
-y= 395
-
-
-
-
-
+alarm[0]=60

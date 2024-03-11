@@ -4,6 +4,7 @@
   "name": "obj_player1_full",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player1_full",
-    "path": "sprites/spr_player1_full/spr_player1_full.yy",
+    "name": "spr_player1_select",
+    "path": "sprites/spr_player1_select/spr_player1_select.yy",
   },
   "spriteMaskId": null,
   "visible": true,

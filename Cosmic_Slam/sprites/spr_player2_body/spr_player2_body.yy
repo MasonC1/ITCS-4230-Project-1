@@ -2,8 +2,8 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_player2_body",
-  "bbox_bottom": 118,
-  "bbox_left": 21,
+  "bbox_bottom": 122,
+  "bbox_left": 14,
   "bbox_right": 54,
   "bbox_top": 28,
   "bboxMode": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ffdbaaf0-76f2-43db-a1fc-2dc7b5b46b1e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"17095827-7265-45b4-8118-5a010304c62a",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"95ade39e-9ed0-4e5d-9607-8885073f68ba","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0d835d28-1479-4e6b-a87d-a78e1637ccf7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 9,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ffdbaaf0-76f2-43db-a1fc-2dc7b5b46b1e","path":"sprites/spr_player2_body/spr_player2_body.yy",},},},"Disabled":false,"id":"85c78a89-2af2-4e7b-88e5-3bd2c99dc9cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"17095827-7265-45b4-8118-5a010304c62a","path":"sprites/spr_player2_body/spr_player2_body.yy",},},},"Disabled":false,"id":"de04d481-8bab-4d44-a3d7-54e28ba54d35","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
