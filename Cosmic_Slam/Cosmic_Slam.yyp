@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"spr_ufo","path":"sprites/spr_ufo/spr_ufo.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
+    {"id":{"name":"spr_level1_background","path":"sprites/spr_level1_background/spr_level1_background.yy",},},
     {"id":{"name":"spr_tutorial_bg","path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},},
     {"id":{"name":"titlescreen","path":"rooms/titlescreen/titlescreen.yy",},},
     {"id":{"name":"obj_player1_full","path":"objects/obj_player1_full/obj_player1_full.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"Dialogue","path":"scripts/Dialogue/Dialogue.yy",},},
     {"id":{"name":"obj_ball_explode","path":"objects/obj_ball_explode/obj_ball_explode.yy",},},
     {"id":{"name":"obj_arm","path":"objects/obj_arm/obj_arm.yy",},},
+    {"id":{"name":"spr_ending_background","path":"sprites/spr_ending_background/spr_ending_background.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"spr_player2_dialogue","path":"sprites/spr_player2_dialogue/spr_player2_dialogue.yy",},},
     {"id":{"name":"spr_player2_body","path":"sprites/spr_player2_body/spr_player2_body.yy",},},
@@ -91,6 +93,7 @@
     {"id":{"name":"spr_player1_dialogue","path":"sprites/spr_player1_dialogue/spr_player1_dialogue.yy",},},
     {"id":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},},
     {"id":{"name":"spr_player2_arm","path":"sprites/spr_player2_arm/spr_player2_arm.yy",},},
+    {"id":{"name":"spr_meteor","path":"sprites/spr_meteor/spr_meteor.yy",},},
     {"id":{"name":"spr_tempBackground","path":"sprites/spr_tempBackground/spr_tempBackground.yy",},},
     {"id":{"name":"obj_dialogueP1","path":"objects/obj_dialogueP1/obj_dialogueP1.yy",},},
     {"id":{"name":"spr_basketball","path":"sprites/spr_basketball/spr_basketball.yy",},},

@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_ufo","order":24,"path":"sprites/spr_ufo/spr_ufo.yy",},
+    {"name":"spr_level1_background","order":26,"path":"sprites/spr_level1_background/spr_level1_background.yy",},
     {"name":"spr_tutorial_bg","order":8,"path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},
     {"name":"titlescreen","order":1,"path":"rooms/titlescreen/titlescreen.yy",},
     {"name":"obj_player1_full","order":8,"path":"objects/obj_player1_full/obj_player1_full.yy",},
@@ -26,6 +27,7 @@
     {"name":"spr_player1","order":9,"path":"sprites/spr_player1/spr_player1.yy",},
     {"name":"obj_ball_explode","order":16,"path":"objects/obj_ball_explode/obj_ball_explode.yy",},
     {"name":"obj_arm","order":3,"path":"objects/obj_arm/obj_arm.yy",},
+    {"name":"spr_ending_background","order":27,"path":"sprites/spr_ending_background/spr_ending_background.yy",},
     {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"spr_player2_dialogue","order":14,"path":"sprites/spr_player2_dialogue/spr_player2_dialogue.yy",},
     {"name":"spr_player2_body","order":11,"path":"sprites/spr_player2_body/spr_player2_body.yy",},
@@ -69,6 +71,7 @@
     {"name":"spr_player1_dialogue","order":13,"path":"sprites/spr_player1_dialogue/spr_player1_dialogue.yy",},
     {"name":"obj_asteroid","order":10,"path":"objects/obj_asteroid/obj_asteroid.yy",},
     {"name":"spr_player2_arm","order":12,"path":"sprites/spr_player2_arm/spr_player2_arm.yy",},
+    {"name":"spr_meteor","order":25,"path":"sprites/spr_meteor/spr_meteor.yy",},
     {"name":"obj_dialogueP1","order":8,"path":"objects/obj_dialogueP1/obj_dialogueP1.yy",},
     {"name":"spr_basketball","order":3,"path":"sprites/spr_basketball/spr_basketball.yy",},
     {"name":"obj_player_choice","order":10,"path":"objects/obj_player_choice/obj_player_choice.yy",},

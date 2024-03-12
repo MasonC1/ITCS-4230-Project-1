@@ -6,6 +6,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_basketball","path":"objects/obj_basketball/obj_basketball.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +27,8 @@
   "physicsSensor": false,
   "physicsShape": 0,
   "physicsShapePoints": [
-    {"x":16.0,"y":14.0,},
-    {"x":11.0,"y":14.0,},
+    {"x":30.0,"y":32.0,},
+    {"x":26.0,"y":32.0,},
   ],
   "physicsStartAwake": false,
   "properties": [
@@ -35,8 +36,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_asteroid",
-    "path": "sprites/spr_asteroid/spr_asteroid.yy",
+    "name": "spr_meteor",
+    "path": "sprites/spr_meteor/spr_meteor.yy",
   },
   "spriteMaskId": null,
   "visible": true,
