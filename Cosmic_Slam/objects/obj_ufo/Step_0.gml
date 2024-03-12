@@ -16,6 +16,7 @@ if (score >= 3 and !descended)
 if (!animation_finished and descended) 
 {
 	image_speed = 1;
+	audio_play_sound(tractor_beam, 1, false);
 	if (image_index >= image_number - 1)
 	{
 	    image_speed = 0;
