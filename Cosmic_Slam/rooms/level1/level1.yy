@@ -16,6 +16,7 @@
     {"name":"inst_2DE58BC_1","path":"rooms/level1/level1.yy",},
     {"name":"inst_16E34311","path":"rooms/level1/level1.yy",},
     {"name":"inst_331F6874","path":"rooms/level1/level1.yy",},
+    {"name":"inst_53CB9125","path":"rooms/level1/level1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -30,6 +31,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2DE58BC_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_scoreCounter","path":"objects/obj_scoreCounter/obj_scoreCounter.yy",},"properties":[],"rotation":0.0,"scaleX":4.125,"scaleY":-1.125,"x":675.0,"y":292.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_16E34311","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},"properties":[],"rotation":0.0,"scaleX":1.9999999,"scaleY":1.9999999,"x":416.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_331F6874","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dialogueBB","path":"objects/obj_dialogueBB/obj_dialogueBB.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_53CB9125","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ufo2","path":"objects/obj_ufo2/obj_ufo2.yy",},"properties":[],"rotation":0.0,"scaleX":4.3996887,"scaleY":4.3996882,"x":158.0,"y":282.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_level1_background","path":"sprites/spr_level1_background/spr_level1_background.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
