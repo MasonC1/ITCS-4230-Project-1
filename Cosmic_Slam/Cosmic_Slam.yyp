@@ -37,6 +37,7 @@
     {"id":{"name":"spr_ufo","path":"sprites/spr_ufo/spr_ufo.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"spr_level1_background","path":"sprites/spr_level1_background/spr_level1_background.yy",},},
+    {"id":{"name":"spr_BB_dia","path":"sprites/spr_BB_dia/spr_BB_dia.yy",},},
     {"id":{"name":"spr_tutorial_bg","path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},},
     {"id":{"name":"titlescreen","path":"rooms/titlescreen/titlescreen.yy",},},
     {"id":{"name":"obj_player1_full","path":"objects/obj_player1_full/obj_player1_full.yy",},},
