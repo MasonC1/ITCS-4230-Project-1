@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"spr_ufo","path":"sprites/spr_ufo/spr_ufo.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
+    {"id":{"name":"spr_dumpy","path":"sprites/spr_dumpy/spr_dumpy.yy",},},
     {"id":{"name":"spr_level1_background","path":"sprites/spr_level1_background/spr_level1_background.yy",},},
     {"id":{"name":"spr_tutorial_bg","path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},},
     {"id":{"name":"titlescreen","path":"rooms/titlescreen/titlescreen.yy",},},
@@ -93,6 +94,7 @@
     {"id":{"name":"obj_scoreCounter","path":"objects/obj_scoreCounter/obj_scoreCounter.yy",},},
     {"id":{"name":"spr_player1_dialogue","path":"sprites/spr_player1_dialogue/spr_player1_dialogue.yy",},},
     {"id":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},},
+    {"id":{"name":"obj_dumpy","path":"objects/obj_dumpy/obj_dumpy.yy",},},
     {"id":{"name":"spr_player2_arm","path":"sprites/spr_player2_arm/spr_player2_arm.yy",},},
     {"id":{"name":"spr_meteor","path":"sprites/spr_meteor/spr_meteor.yy",},},
     {"id":{"name":"spr_tempBackground","path":"sprites/spr_tempBackground/spr_tempBackground.yy",},},

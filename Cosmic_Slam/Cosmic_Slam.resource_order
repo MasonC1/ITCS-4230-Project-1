@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_ufo","order":24,"path":"sprites/spr_ufo/spr_ufo.yy",},
+    {"name":"spr_dumpy","order":28,"path":"sprites/spr_dumpy/spr_dumpy.yy",},
     {"name":"spr_level1_background","order":26,"path":"sprites/spr_level1_background/spr_level1_background.yy",},
     {"name":"spr_tutorial_bg","order":8,"path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},
     {"name":"titlescreen","order":1,"path":"rooms/titlescreen/titlescreen.yy",},
@@ -71,6 +72,7 @@
     {"name":"obj_scoreCounter","order":8,"path":"objects/obj_scoreCounter/obj_scoreCounter.yy",},
     {"name":"spr_player1_dialogue","order":13,"path":"sprites/spr_player1_dialogue/spr_player1_dialogue.yy",},
     {"name":"obj_asteroid","order":10,"path":"objects/obj_asteroid/obj_asteroid.yy",},
+    {"name":"obj_dumpy","order":19,"path":"objects/obj_dumpy/obj_dumpy.yy",},
     {"name":"spr_player2_arm","order":12,"path":"sprites/spr_player2_arm/spr_player2_arm.yy",},
     {"name":"spr_meteor","order":25,"path":"sprites/spr_meteor/spr_meteor.yy",},
     {"name":"obj_dialogueP1","order":8,"path":"objects/obj_dialogueP1/obj_dialogueP1.yy",},
