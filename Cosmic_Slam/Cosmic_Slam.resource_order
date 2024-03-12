@@ -43,6 +43,7 @@
     {"name":"obj_player2_arm","order":14,"path":"objects/obj_player2_arm/obj_player2_arm.yy",},
     {"name":"obj_player2_full","order":9,"path":"objects/obj_player2_full/obj_player2_full.yy",},
     {"name":"menu_music","order":6,"path":"sounds/menu_music/menu_music.yy",},
+    {"name":"obj_menu_music","order":20,"path":"objects/obj_menu_music/obj_menu_music.yy",},
     {"name":"obj_play_button","order":7,"path":"objects/obj_play_button/obj_play_button.yy",},
     {"name":"spr_net","order":19,"path":"sprites/spr_net/spr_net.yy",},
     {"name":"spr_player1_arm","order":10,"path":"sprites/spr_player1_arm/spr_player1_arm.yy",},

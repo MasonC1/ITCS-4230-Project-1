@@ -63,6 +63,7 @@
     {"id":{"name":"obj_player2_arm","path":"objects/obj_player2_arm/obj_player2_arm.yy",},},
     {"id":{"name":"obj_player2_full","path":"objects/obj_player2_full/obj_player2_full.yy",},},
     {"id":{"name":"menu_music","path":"sounds/menu_music/menu_music.yy",},},
+    {"id":{"name":"obj_menu_music","path":"objects/obj_menu_music/obj_menu_music.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
     {"id":{"name":"spr_net","path":"sprites/spr_net/spr_net.yy",},},
     {"id":{"name":"spr_player1_arm","path":"sprites/spr_player1_arm/spr_player1_arm.yy",},},
