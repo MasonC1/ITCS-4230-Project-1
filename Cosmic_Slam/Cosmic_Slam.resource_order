@@ -24,6 +24,7 @@
     {"name":"spr_BB_dia","order":28,"path":"sprites/spr_BB_dia/spr_BB_dia.yy",},
     {"name":"spr_tutorial_bg","order":8,"path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},
     {"name":"titlescreen","order":1,"path":"rooms/titlescreen/titlescreen.yy",},
+    {"name":"obj_space_music","order":22,"path":"objects/obj_space_music/obj_space_music.yy",},
     {"name":"obj_player1_full","order":8,"path":"objects/obj_player1_full/obj_player1_full.yy",},
     {"name":"obj_backboard","order":4,"path":"objects/obj_backboard/obj_backboard.yy",},
     {"name":"spr_player1_full","order":16,"path":"sprites/spr_player1_full/spr_player1_full.yy",},
