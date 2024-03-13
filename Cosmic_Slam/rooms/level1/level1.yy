@@ -18,8 +18,8 @@
     {"name":"inst_331F6874","path":"rooms/level1/level1.yy",},
     {"name":"inst_53CB9125","path":"rooms/level1/level1.yy",},
     {"name":"inst_40980E03","path":"rooms/level1/level1.yy",},
-    {"name":"inst_64C8E73F","path":"rooms/level1/level1.yy",},
     {"name":"inst_1175EB10","path":"rooms/level1/level1.yy",},
+    {"name":"inst_64C8E73F","path":"rooms/level1/level1.yy",},
   ],
   "isDnd": false,
   "layers": [
