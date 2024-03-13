@@ -29,7 +29,7 @@
   "physicsShape": 0,
   "physicsShapePoints": [
     {"x":32.0,"y":32.0,},
-    {"x":23.0,"y":32.0,},
+    {"x":24.0,"y":32.0,},
   ],
   "physicsStartAwake": false,
   "properties": [],
