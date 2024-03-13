@@ -42,6 +42,7 @@
     {"id":{"name":"spr_BB_dia","path":"sprites/spr_BB_dia/spr_BB_dia.yy",},},
     {"id":{"name":"spr_tutorial_bg","path":"sprites/spr_tutorial_bg/spr_tutorial_bg.yy",},},
     {"id":{"name":"titlescreen","path":"rooms/titlescreen/titlescreen.yy",},},
+    {"id":{"name":"obj_space_music","path":"objects/obj_space_music/obj_space_music.yy",},},
     {"id":{"name":"obj_player1_full","path":"objects/obj_player1_full/obj_player1_full.yy",},},
     {"id":{"name":"obj_backboard","path":"objects/obj_backboard/obj_backboard.yy",},},
     {"id":{"name":"spr_player1_full","path":"sprites/spr_player1_full/spr_player1_full.yy",},},
