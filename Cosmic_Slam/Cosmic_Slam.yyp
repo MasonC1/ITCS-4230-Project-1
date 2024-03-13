@@ -65,6 +65,7 @@
     {"id":{"name":"scoring","path":"sounds/scoring/scoring.yy",},},
     {"id":{"name":"obj_dialogueP2","path":"objects/obj_dialogueP2/obj_dialogueP2.yy",},},
     {"id":{"name":"spr_player2_full","path":"sprites/spr_player2_full/spr_player2_full.yy",},},
+    {"id":{"name":"obj_basketballfall","path":"objects/obj_basketballfall/obj_basketballfall.yy",},},
     {"id":{"name":"obj_player2_arm","path":"objects/obj_player2_arm/obj_player2_arm.yy",},},
     {"id":{"name":"obj_player2_full","path":"objects/obj_player2_full/obj_player2_full.yy",},},
     {"id":{"name":"menu_music","path":"sounds/menu_music/menu_music.yy",},},

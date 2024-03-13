@@ -45,6 +45,7 @@
     {"name":"scoring","order":8,"path":"sounds/scoring/scoring.yy",},
     {"name":"obj_dialogueP2","order":9,"path":"objects/obj_dialogueP2/obj_dialogueP2.yy",},
     {"name":"spr_player2_full","order":17,"path":"sprites/spr_player2_full/spr_player2_full.yy",},
+    {"name":"obj_basketballfall","order":24,"path":"objects/obj_basketballfall/obj_basketballfall.yy",},
     {"name":"obj_player2_arm","order":14,"path":"objects/obj_player2_arm/obj_player2_arm.yy",},
     {"name":"obj_player2_full","order":9,"path":"objects/obj_player2_full/obj_player2_full.yy",},
     {"name":"menu_music","order":6,"path":"sounds/menu_music/menu_music.yy",},
