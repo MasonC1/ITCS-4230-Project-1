@@ -6,6 +6,7 @@ if(global.can_player_shoot == true)
 	{
 		collected = true
 		score++
+		audio_play_sound(scoring, 1, false)
 	}
 	
 	//Shot logic *************************************
