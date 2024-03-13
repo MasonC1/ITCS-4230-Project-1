@@ -13,7 +13,7 @@
 			delay--
 			if delay = 0
 			{
-				var const = random_range(15,18)
+				var const = random_range(15,17)
 				show_debug_message(const)
 				gravity = 0
 				direction = point_direction(x, y, obj_backboard.x, obj_backboard.y-60); 

@@ -13,5 +13,6 @@ if room == (ending1){
     audio_stop_sound(space_music)
 }
 
-
-
+if room == (ending2){
+    audio_stop_sound(space_music)
+}
