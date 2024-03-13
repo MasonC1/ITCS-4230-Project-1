@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "ending",
+  "name": "ending1",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,

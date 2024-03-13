@@ -1,4 +1,4 @@
-show_debug_message(fake_delay)
+//show_debug_message(fake_delay)
 if (score >= 3 and !descended)
 {
 	if y < 150

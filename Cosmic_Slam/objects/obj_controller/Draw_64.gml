@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-draw_set_halign(fa_left)
-draw_text(55, 55, "Score: " + string(score))
-draw_set_colour(c_green)
-
+for (var i = 0; i < score; i++) {
+    draw_sprite(spr_score, 0, 50 + i * sprite_get_width(spr_score), 50); // Draw the sprite
+}
