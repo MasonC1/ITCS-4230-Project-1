@@ -7,5 +7,5 @@ if score >= 3
 if global.enemy_score >=3
 {
 	score = 0
-	room_restart()
+	room_goto(ending2)
 }
