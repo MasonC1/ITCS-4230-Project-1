@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_forwardrim",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -20,11 +22,10 @@
   "physicsObject": true,
   "physicsRestitution": 0.1,
   "physicsSensor": false,
-  "physicsShape": 2,
+  "physicsShape": 0,
   "physicsShapePoints": [
-    {"x":170.95369,"y":169.80553,},
-    {"x":171.06454,"y":174.96074,},
-    {"x":165.79848,"y":174.68358,},
+    {"x":169.0,"y":173.0,},
+    {"x":2.0,"y":173.0,},
   ],
   "physicsStartAwake": false,
   "properties": [],
