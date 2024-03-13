@@ -1,2 +1,2 @@
 image_speed = 1
-delay=60
+delay=30
