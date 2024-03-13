@@ -10,6 +10,7 @@
     {"name":"inst_42F5009A","path":"rooms/ending1/ending1.yy",},
     {"name":"inst_653EDCA6","path":"rooms/ending1/ending1.yy",},
   ],
+  "instanceCreationOrder": [],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
